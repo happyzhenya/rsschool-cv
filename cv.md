@@ -42,3 +42,11 @@ public static void main(String[] args) {
              System.out.println("нет такого месяца в году");
 
 ```
+
+## Work Experience:
+
+- - Minsk tractor plant - Delphi, SQL
+
+## Education:
+
+- - University: Belarusian National Technical University, Faculty of Information Technology and Robotics
