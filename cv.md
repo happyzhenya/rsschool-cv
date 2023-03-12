@@ -11,3 +11,14 @@
 ## About me:
 
 I'm hardworking person,who wants to evolve in this field constantly and likes to solve complex and difficult problems, as it gives lots of experience and helps to grow as a developer faster.
+
+## Skills:
+
+- - SQL
+- - Java(basics)
+- - Kotlin(basics)
+- - Android (basics)
+- - HTML
+- - CSS/SASS
+- - JavaScript (Basic)
+- - Git
