@@ -50,3 +50,14 @@ public static void main(String[] args) {
 ## Education:
 
 - - University: Belarusian National Technical University, Faculty of Information Technology and Robotics
+
+### Courses:
+
+- - [JavaScript](https://learn.javascript.ru/)
+- - [CSS](https://ru.code-basics.com/languages/css)
+- - [HTML](https://ru.code-basics.com/languages/html)
+- - Belhard Android
+
+## English:
+
+- - English level - B1
